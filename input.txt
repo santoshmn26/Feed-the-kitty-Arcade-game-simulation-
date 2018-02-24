@@ -1,0 +1,7 @@
+6	2	4
+Green	60
+red	40
+SC	40
+AW	30
+BW	20
+MI	10
